@@ -1,5 +1,7 @@
 package Static.StaticVariable;
 
+import Static.NonStaticInStatic.Counter;
+
 class Counter {
 
 //    static int count = 0;
